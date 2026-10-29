@@ -1,0 +1,97 @@
+{
+  "source": "QOTSA - Perfecth Lyrics (Final) (1).docx",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "It’s Only Love",
+      "source_lines": 10,
+      "translated_lines": 10,
+      "manuscript_pages": [
+        1
+      ]
+    },
+    {
+      "track": 2,
+      "title": "Insignificant Other",
+      "source_lines": 30,
+      "translated_lines": 30,
+      "manuscript_pages": [
+        2,
+        3
+      ]
+    },
+    {
+      "track": 3,
+      "title": "Where the Goth Girls At?",
+      "source_lines": 14,
+      "translated_lines": 14,
+      "manuscript_pages": [
+        4
+      ]
+    },
+    {
+      "track": 4,
+      "title": "Mono",
+      "source_lines": 28,
+      "translated_lines": 28,
+      "manuscript_pages": [
+        5
+      ]
+    },
+    {
+      "track": 5,
+      "title": "From the Cliff",
+      "source_lines": 28,
+      "translated_lines": 28,
+      "manuscript_pages": [
+        6
+      ]
+    },
+    {
+      "track": 6,
+      "title": "Sunday",
+      "source_lines": 34,
+      "translated_lines": 34,
+      "manuscript_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "track": 7,
+      "title": "Easy Street",
+      "source_lines": 29,
+      "translated_lines": 29,
+      "manuscript_pages": [
+        9
+      ]
+    },
+    {
+      "track": 8,
+      "title": "Phantom Limb",
+      "source_lines": 19,
+      "translated_lines": 19,
+      "manuscript_pages": [
+        10
+      ]
+    },
+    {
+      "track": 9,
+      "title": "Run Away from the Mob",
+      "source_lines": 33,
+      "translated_lines": 33,
+      "manuscript_pages": [
+        11
+      ]
+    }
+  ],
+  "total_source_lines": 225,
+  "total_translated_lines": 225,
+  "notes": [
+    "Word Final file governs the lyrics. Each nonblank source line has exactly one Korean line, including repeated lines.",
+    "Insignificant Other includes the full ending. Sunday wording follows I confide. Run Away From The Mob follows dirty knee, and the final dedication order follows the Word file.",
+    "Handwritten PDF is displayed only as original images for reference; its crossings-out and draft differences are not merged into the translation.",
+    "English-text toggle and biography collapse controls removed.",
+    "Photo labels use the exact five-name order supplied by the user."
+  ]
+}
